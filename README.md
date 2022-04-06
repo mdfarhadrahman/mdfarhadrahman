@@ -13,6 +13,6 @@ I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I 
 
 
 
-   <img src="hhttps://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/work%20featured.mp4" alt="angular" width="40" height="40"/>
+   <img src="hhttps://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/work%20featured.mp4"/>
 
 
