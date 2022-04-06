@@ -6,7 +6,7 @@ I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I 
 ## Hi there 👋, I'm Farhad Ahmed.
 
 # Skills and Experience
-<html>
+
 <style>
 .tooltiptext {
     visibility: hidden;
@@ -19,8 +19,7 @@ I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I 
     font-size: 14px;}
 <style/>
 <div class="w-1/3 sm:w-1/4 my-6"><label for="javascript" class="checkbox-label flex items-center justify-start"><input type="checkbox" id="javascript" class="checkbox-label__input"><span class="checkbox-label__control"></span><img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"><span class="tooltiptext" >javascript</span></label></div>
-    <html/>
-
+   
 - 🔭 I’m currently working on React.JS 
 - 🌱 I’m currently learning Python. 
 - 💬 Ask me about myself? 
