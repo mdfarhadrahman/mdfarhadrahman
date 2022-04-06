@@ -6,7 +6,7 @@ I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I 
 ## Hi there 👋, I'm Farhad Ahmed.
 
 #Skills and Experience
-* <box-icon name='html5' type='logo' animation='tada' color='#ff7925' ></box-icon> HTML
+* <box-icon name='html5' type='logo' animation='tada' color='#ff7925' > HTML
 *
 * ⚛ React
 
