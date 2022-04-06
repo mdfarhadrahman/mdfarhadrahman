@@ -6,9 +6,8 @@ I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I 
 ## Hi there 👋, I'm Farhad Ahmed.
 
 # Skills and Experience
-HTML
+
 <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height='40'> Angular
-* ⚛ React
 
 - 🔭 I’m currently working on React.JS 
 - 🌱 I’m currently learning Python. 
