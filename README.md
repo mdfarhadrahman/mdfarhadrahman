@@ -74,6 +74,6 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
 
 <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Work%20Featured%20Image.gif" width="1200">
 
-<br>
+<h2 align="center"> </h2>
 
 <h2 align="center">Thanks for visiting my GitHub profile!</h2>
