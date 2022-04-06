@@ -7,7 +7,7 @@ I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I 
 
 # Skills and Experience
 * <i class='bx bxl-html5' style='color:#ff8814'  ></i> HTML
-*
+* <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular">
 * ⚛ React
 
 - 🔭 I’m currently working on React.JS 
