@@ -6,7 +6,7 @@ I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I 
 ## Hi there 👋, I'm Farhad Ahmed.
 
 #Skills and Experience
-* <box-icon name='html5' type='logo' animation='tada' color='#ff7925' > HTML
+* <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAadJREFUSEu9lU1SwkAQhd+z/FmKN8jCUO7UEwAnMDcQb8CSsDFuEnbiCfQI4QTiDWBnEavkCKwFbWuGRBPyQ4KFXZVNMjPfvO7XHWLHwR2fj/8HiG2OADS2VPZCL2jG96YU7B7Qq/sQudpKATmkO7WKFfTqDkRu9SKRVikQ+azXkXd0p04lAPtvqia5Id3TJqoBzDYEj5ECBZCuOQBxnkOpAbhYKcAN3eCpWEH8RiItDSjrrHB9eUCYU+meGcDSyFRAtgFcxxVvAJwZ4Od7XtHWIRI3xdHihM5sXgjQ5rFNCRfNAKgnI/hAb+qLbaqcawX0glRfZY6KGGACkQ6oisj7BCWjPlUAY0C7Rrd+wooRJQ2Y0AtWbopFnoJoHo3pBZc6bY5Rw8fBqksPF36Ua7FNlfPj6DJVAcrbHb3ZDZSqn5CeqW7bgGAQvkwNOl2XrPIlnPG7YAbBqqsJNTGTts0YE1UB2WaK3lYCqMbi0gL3mhsnKzmEfI0g+z77rylLl/qjiV23IKKGmgXIXKeKHKk+KJaVU4NNm6p8L6WgyoGlbPqXA9f3fgMwddAZdrCqXgAAAABJRU5ErkJggg=="/> HTML
 *
 * ⚛ React
 
