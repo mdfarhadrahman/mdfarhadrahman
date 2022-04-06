@@ -78,6 +78,6 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
 
 <h2 align="center">Thanks for visiting my GitHub profile!<br> </h2>
 
-<a href="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/index.html"> </a>
+
 
 
