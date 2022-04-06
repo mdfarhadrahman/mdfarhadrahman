@@ -12,12 +12,12 @@ I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I 
 
 <br>
 
-<h2 align="left">Frontend Development Framework:</h2>
+<h2 align="left">Frontend Development:</h2>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Angular-Icon.svg" alt="angular" width="40" height="40"/> </a> &nbsp;&nbsp; <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/babel.svg" alt="babel" width="40" height="40"/> </a> &nbsp;&nbsp; <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Bootstrap_logo.svg" alt="bootstrap" width="40"/> </a> &nbsp;&nbsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/CSS3_logo_With_wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;&nbsp; <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/HTML5_logo_With_wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;&nbsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/React-icon.svg" alt="react" width="40" height="40"/> </a> &nbsp;&nbsp; <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Vue.js_Logo_2.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 <br>
 
-<h2 align="left">Backend Development Framework:</h2>
+<h2 align="left">Backend Development:</h2>
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">  <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/django.svg" alt="django" width="40" height="40"/> </a> &nbsp;&nbsp; <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/NodeJS.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
 <br>
@@ -37,7 +37,7 @@ I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I 
 
 <br>
   
-<h3 align="left">designed Tools:</h3>
+<h3 align="left">Designed Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Figma-logo.svg" alt="figma" width="40" height="40"/> </a> &nbsp;&nbsp; <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Adobe_XD_Icon.svg" alt="xd" width="40" height="40"/> </a> &nbsp;&nbsp; <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Adobe_Illustrator_Icon.svg" alt="illustrator" width="40" height="40"/> </a> &nbsp;&nbsp; <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Adobe_Photoshop_Icon.svg" alt="photoshop" width="40" height="40"/> </a> </p>
   
 <br>
