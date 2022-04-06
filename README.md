@@ -8,7 +8,104 @@ I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I 
 # Skills and Experience
 
 
-<p align="left" > <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" padding='40px'/> Angular</a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" padding='40px'/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" padding='40px'/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+ <head>
+    <style>
+      .w-1\/3 {
+        width: 33.333333%;
+      }
+      .checkbox-label {
+        cursor: pointer;
+      }
+
+      .justify-start {
+        justify-content: flex-start;
+      }
+
+      .items-center {
+        align-items: center;
+      }
+
+      .flex {
+        display: flex;
+      }
+      .checkbox-label__input {
+        position: absolute;
+        opacity: 0;
+      }
+
+      .checkbox-label__control {
+        position: relative;
+        display: inline-flex;
+        flex-shrink: 0;
+        width: 24px;
+        height: 24px;
+        margin-right: 12px;
+        vertical-align: middle;
+        background-color: #f7fafc;
+        border: 2px solid var(--grey-90);
+        transform: scale(0.75);
+      }
+
+      .sm\:w-10 {
+        width: 2.5rem;
+      }
+
+      .sm\:h-10 {
+        height: 2.5rem;
+      }
+      .w-8 {
+        width: 2rem;
+      }
+      .ml-4 {
+        margin-left: 1rem;
+      }
+      .h-8 {
+        height: 2rem;
+      }
+      img {
+        max-width: 100%;
+        height: auto;
+      }
+      img,
+      object,
+      svg {
+        display: block;
+        vertical-align: middle;
+      }
+      img {
+        border-style: solid;
+      }
+
+      .tooltiptext {
+        visibility: hidden;
+        display: flex;
+        align-items: center;
+        color: var(--grey-05);
+        margin-left: 8%;
+        background: var(--grey-90);
+        padding: 2% 5%;
+        font-size: 14px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="w-1/3 sm:w-1/4 my-6">
+      <label
+        for="angular"
+        class="checkbox-label flex items-center justify-start"
+        ><input
+          type="checkbox"
+          id="angular"
+          class="checkbox-label__input"
+        /><span class="checkbox-label__control"></span
+        ><img
+          class="ml-4 w-8 h-8 sm:w-10 sm:h-10"
+          src="https://angular.io/assets/images/logos/angular/angular.svg"
+          alt="angular"
+        /><span class="tooltiptext">angular</span></label
+      >
+    </div>
+  </body>
 
    
 - 🔭 I’m currently working on React.JS 
