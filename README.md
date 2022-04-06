@@ -6,10 +6,9 @@ I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I 
 ## Hi there 👋, I'm Farhad Ahmed.
 
 # Skills and Experience
-
-<div class="w-1/3 sm:w-1/4 my-6"><label for="javascript" class="checkbox-label flex items-center justify-start"><input type="checkbox" id="javascript" class="checkbox-label__input"><span class="checkbox-label__control"></span><img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"><span class="tooltiptext" >javascript</span></label></div>
-Style{
-.tooltiptext{ 
+<html>
+style{
+.tooltiptext {
     visibility: hidden;
     display: flex;
     align-items: center;
@@ -17,8 +16,10 @@ Style{
     margin-left: 8%;
     background: var(--grey-90);
     padding: 2% 5%;
-    font-size: 14px;}
-    }
+    font-size: 14px;
+}
+<div class="w-1/3 sm:w-1/4 my-6"><label for="javascript" class="checkbox-label flex items-center justify-start"><input type="checkbox" id="javascript" class="checkbox-label__input"><span class="checkbox-label__control"></span><img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"><span class="tooltiptext" >javascript</span></label></div>
+    <html/>
 
 - 🔭 I’m currently working on React.JS 
 - 🌱 I’m currently learning Python. 
