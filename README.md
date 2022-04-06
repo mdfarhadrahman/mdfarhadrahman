@@ -18,7 +18,7 @@ I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I 
 <br>
 
 <h2 align="left">Backend Development Framework:</h2>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">  <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">  <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/NodeJS.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
 <br>
 
