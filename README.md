@@ -49,7 +49,7 @@ I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I 
 <a href="https://www.linkedin.com/in/pixelsdeveloper/" target="blank"><img align="center" src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/LinkedIn-Icon.svg" alt="https://www.facebook.com/pixelsdeveloper/" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/PixelsDeveloper" target="blank"><img align="center" src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Twitter-Icon.svg" alt="https://www.instagram.com/pixelsdeveloper/" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.behance.net/pixelsdeveloper" target="blank"><img align="center" src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Behance-Icon.svg" alt="pixelsdeveloper" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://discord.gg/6919" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6919" height="30" width="40" /></a>
+<a href="https://www.facebook.com/PixelsDeveloper/" target="blank"><img align="center" src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Facebook-Icon.svg" alt="6919" height="30" width="40" /></a>
 </p>
 
 <br>
