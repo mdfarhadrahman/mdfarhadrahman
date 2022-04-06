@@ -42,15 +42,16 @@ I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I 
 
 <br>
   
+<h2 align="left">Version Control System:</h2>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Git-Logo-Icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;&nbsp; <a href="https://desktop.github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Github-Desktop-Icon.svg" alt="git" width="40" height="40"/> </a> </p>
+ 
+<br>
+  
 <h2 align="left">Designed Tools:</h2>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Figma-logo.svg" alt="figma" width="40" height="40"/> </a> &nbsp;&nbsp; <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Adobe_XD_Icon.svg" alt="xd" width="40" height="40"/> </a> &nbsp;&nbsp; <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Adobe_Illustrator_Icon.svg" alt="illustrator" width="40" height="40"/> </a> &nbsp;&nbsp; <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Adobe_Photoshop_Icon.svg" alt="photoshop" width="40" height="40"/> </a> </p>
   
 <br>
 
-<h2 align="left">Version Control System:</h2>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Git-Logo-Icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;&nbsp; <a href="https://desktop.github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
- 
- <br>
  
 <h2 align="left">Connect with me:</h2>
 <p align="left">
