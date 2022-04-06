@@ -9,7 +9,7 @@ I’ve always sought out opportunities and challenges that are meaningful to me.
 
 As a software developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world. That's why I’m excited to make a big impact at a high-growth company.
 
-<h3 style="color:powderblue;">Mission-driven full stack developer with a passion for thoughtful UI design, collaboration, and teaching.</h3>
+<h3 style="color:rgb(117, 119, 190);">Mission-driven full stack developer with a passion for thoughtful UI design, collaboration, and teaching.</h3>
 
 <p>I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like React, Angular and Node.JS, as well as work in software development. I also enjoy learning nwe languages, and developed in general.
 
