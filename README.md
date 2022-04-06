@@ -28,7 +28,7 @@ I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I 
 <br>
 
 <h2 align="left">Devops Tools:</h2>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/aws_logo.png" alt="aws" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/aws_logo.png" alt="aws" width="60"/> </a> </p>
 
 <br>
 
