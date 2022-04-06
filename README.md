@@ -76,31 +76,5 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
 
 <h2 align="center"> </h2>
 
-<h2 align="center">Thanks for visiting my GitHub profile!<br> '</h2>
-  <div class="heart" .heart {
-    width: 100px;
-    height: 100px;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    background: url(https://cssanimation.rocks/images/posts/steps/heart.png) no-repeat;
-    background-position: 0 0;
-    cursor: pointer;
-    animation: fave-heart 1s steps(28);
-  }
-  .heart:hover {
-    background-position: -2800px 0;
-    transition: background 1s steps(28);
-  }
-  @keyframes fave-heart {
-    0% {
-      background-position: 0 0;
-    }
-    100% {
-      background-position: -2800px 0;
-    }
-  }></div>
-
-
-
+<h2 align="center">Thanks for visiting my GitHub profile!<br> </h2>
+ 
