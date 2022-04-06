@@ -7,8 +7,33 @@ I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I 
 
 # Skills and Experience
 
-<img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height='40'>
-<div class="w-1/3 sm:w-1/4 my-6"><label for="javascript" class="checkbox-label flex items-center justify-start"><input type="checkbox" id="javascript" class="checkbox-label__input"><span class="checkbox-label__control"></span><img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height='40'><span class="tooltiptext" font-size="40"> # javascript</span></label></div>
+    -webkit-text-size-adjust: 100%;
+    line-height: 1.5;
+    --grey-05: #f5f6f7;
+    --grey-10: #dfdfe2;
+    --grey-15: #d0d0d5;
+    --grey-75: #3b3b4f;
+    --grey-80: #2a2a40;
+    --grey-85: #1b1b32;
+    --grey-90: #0a0a23;
+    --purple: #dbb8ff;
+    --yellow: #f1be32;
+    --blue: #99c9ff;
+    --red: #e71837;
+    --light-green: #acd157;
+    --dark-purple: #5a01a7;
+    --dark-yellow: #4d3800;
+    --dark-blue: #002ead;
+    --dark-green: #00471b;
+    font-family: Roboto Mono,monospace;
+    color: var(--grey-90);
+    --divide-y-reverse: 0;
+    --divide-opacity: 1;
+    box-sizing: border-box;
+    border: 0 solid #e2e8f0;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    width: 25%;
 
 - 🔭 I’m currently working on React.JS 
 - 🌱 I’m currently learning Python. 
