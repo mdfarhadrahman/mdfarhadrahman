@@ -1,4 +1,4 @@
-![I'm  Software Engineer.](https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Github%20Banner.png)
+![I'm  Software Engineer.](https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Github%20And%20Other%20Banner.png)
 
 # Farhad Ahmed
 ## Mission-driven full stack developer with a passion for thoughtful UI design, collaboration, and teaching.
