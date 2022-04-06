@@ -23,7 +23,7 @@ I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I 
 <br>
 
 <h2 align="left">Database Tools:</h2>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/MongoDB%20Logo.svg" alt="mongodb" width="90"  /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/logo-mysql.svg" alt="mysql" width="70" /> </a> </p>
+<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/MongoDB%20Logo.svg" alt="mongodb" width="100"  /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/logo-mysql.svg" alt="mysql" width="70" /> </a> </p>
 
 <br>
 
