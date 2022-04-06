@@ -6,7 +6,7 @@ I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I 
 ## Hi there 👋, I'm Farhad Ahmed.
 
 #Skills and Experience
-* <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAadJREFUSEu9lU1SwkAQhd+z/FmKN8jCUO7UEwAnMDcQb8CSsDFuEnbiCfQI4QTiDWBnEavkCKwFbWuGRBPyQ4KFXZVNMjPfvO7XHWLHwR2fj/8HiG2OADS2VPZCL2jG96YU7B7Qq/sQudpKATmkO7WKFfTqDkRu9SKRVikQ+azXkXd0p04lAPtvqia5Id3TJqoBzDYEj5ECBZCuOQBxnkOpAbhYKcAN3eCpWEH8RiItDSjrrHB9eUCYU+meGcDSyFRAtgFcxxVvAJwZ4Od7XtHWIRI3xdHihM5sXgjQ5rFNCRfNAKgnI/hAb+qLbaqcawX0glRfZY6KGGACkQ6oisj7BCWjPlUAY0C7Rrd+wooRJQ2Y0AtWbopFnoJoHo3pBZc6bY5Rw8fBqksPF36Ua7FNlfPj6DJVAcrbHb3ZDZSqn5CeqW7bgGAQvkwNOl2XrPIlnPG7YAbBqqsJNTGTts0YE1UB2WaK3lYCqMbi0gL3mhsnKzmEfI0g+z77rylLl/qjiV23IKKGmgXIXKeKHKk+KJaVU4NNm6p8L6WgyoGlbPqXA9f3fgMwddAZdrCqXgAAAABJRU5ErkJggg=="/> HTML
+* <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" style="fill: rgba(255, 121, 37, 1);transform: ;msFilter:;"><path d="M4.136 3.012h15.729l-1.431 16.15-6.451 1.826-6.414-1.826-1.433-16.15zm5.266 7.302-.173-2.035 7.533.002.173-1.963-9.87-.002.522 5.998h6.835l-.243 2.566-2.179.602-2.214-.605-.141-1.58H7.691l.247 3.123L12 17.506l4.028-1.08.558-6.111H9.402v-.001z"></path></svg> HTML
 *
 * ⚛ React
 
