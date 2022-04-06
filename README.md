@@ -13,7 +13,7 @@ I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I 
 
 # Featured Video
 <video width="1280" height="800" controls>
-  <source src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/work%20featured.mp" type="video/mp4">
+  <source src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/work%20featured.mp4" type="video/mp4">
 </video>
 
 
