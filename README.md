@@ -8,7 +8,7 @@ I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I 
 # Skills and Experience
 
 <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height='40'>
-<div class="w-1/3 sm:w-1/4 my-6"><label for="javascript" class="checkbox-label flex items-center justify-start"><input type="checkbox" id="javascript" class="checkbox-label__input"><span class="checkbox-label__control"></span><img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height='40'><span class="tooltiptext" width="40" height='40'>javascript</span></label></div>
+<div class="w-1/3 sm:w-1/4 my-6"><label for="javascript" class="checkbox-label flex items-center justify-start"><input type="checkbox" id="javascript" class="checkbox-label__input"><span class="checkbox-label__control"></span><img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height='40'><span class="tooltiptext" size ="40">javascript</span></label></div>
 
 - 🔭 I’m currently working on React.JS 
 - 🌱 I’m currently learning Python. 
