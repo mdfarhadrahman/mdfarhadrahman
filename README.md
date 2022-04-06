@@ -48,7 +48,7 @@ I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I 
 <br>
 
 <h2 align="left">Version Control System:</h2>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;&nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Git-Logo-Icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;&nbsp; <a href="https://desktop.github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
  
  <br>
  
