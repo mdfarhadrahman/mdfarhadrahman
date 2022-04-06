@@ -1,6 +1,6 @@
 ## Hi there 👋, Farhad Ahmed.
 #### I'm  Software Engineer.
-![I'm  Software Engineer.](https://pbs.twimg.com/profile_banners/1352886924298522624/1649258643/600x200)
+![I'm  Software Engineer.] (https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Github%20Banner.png)
 
 I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like React, Angular and Node.JS, as well as work in software development. I also enjoy learning nwe languages, and developed in general.
 
