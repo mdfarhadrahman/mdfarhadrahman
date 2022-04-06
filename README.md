@@ -58,7 +58,6 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
   
 <br>
 
- 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://join.skype.com/invite/uk2d7IjI6Rdf" target="blank"><img align="center" src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Skype-Icon.svg" alt="pixelsdeveloper" height="40" width="40" /></a> &nbsp;&nbsp;
@@ -71,10 +70,10 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
 
 <br>
 
-
 # Featured Video
 
-  <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Work%20Featured%20Image.gif" width="1200">
+<img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Work%20Featured%20Image.gif" width="1200">
 
+<br>
 
-
+<h2 align="center">Thanks for visiting my GitHub profile!</h2>
