@@ -60,9 +60,8 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
 
 <div align="display: flex; align-items: center;
     justify-content: center;">
-</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pixelsdeveloper&show_icons=true&locale=en" alt="pixelsdeveloper" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pixelsdeveloper&show_icons=true&locale=en" alt="pixelsdeveloper" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pixelsdeveloper&" alt="pixelsdeveloper" /></p>
 
