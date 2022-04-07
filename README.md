@@ -62,13 +62,13 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
 <div align="display: flex; align-items: center; justify-content: center;">
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pixelsdeveloper&show_icons=true&locale=en" alt="pixelsdeveloper" width="410"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pixelsdeveloper&" alt="pixelsdeveloper" width="410" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pixelsdeveloper&show_icons=true&locale=en&layout=compact" alt="pixelsdeveloper" width="410"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pixelsdeveloper&" alt="pixelsdeveloper" width="410" /><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pixelsdeveloper&show_icons=true&locale=en&layout=compact" alt="pixelsdeveloper" width="410"/>
   </p>
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pixelsdeveloper&" alt="pixelsdeveloper" width="400" /></p>
   
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pixelsdeveloper&show_icons=true&locale=en&layout=compact" alt="pixelsdeveloper" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pixelsdeveloper&show_icons=true&locale=en&layout=compact" alt="pixelsdeveloper" /></p>
 </div>
 
 <br>
