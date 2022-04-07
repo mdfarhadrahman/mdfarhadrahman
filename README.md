@@ -58,7 +58,8 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
   
 <br>
 
-<div align="display: flex;">
+<div align="display: flex; align-items: center;
+    justify-content: center;">
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pixelsdeveloper&show_icons=true&locale=en" alt="pixelsdeveloper" /></p>
