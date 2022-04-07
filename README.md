@@ -9,7 +9,7 @@ I’ve always sought out opportunities and challenges that are meaningful to me.
 
 As a software developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world. That's why I’m excited to make a big impact at a high-growth company.
 
-<p align="left">Personal Website: <a href="https://www.pixelsdeveloper.com" target="_blank" rel="noreferrer"> https://www.pixelsdeveloper.com</a></p>
+<p align="left">Personal Website: <a href="https://www.pixelsdeveloper.com" target="_blank" > https://www.pixelsdeveloper.com</a></p>
 
 <br>
 
