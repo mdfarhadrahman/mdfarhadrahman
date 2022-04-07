@@ -88,7 +88,7 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
 
 <p align="center"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Heart%20animation.gif" width="250" height="250"> </p>
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Personal Website:</h2>
 <p align="center">
-<a href="https://www.pixelsdeveloper.com" target="blank"><img align="center" src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Personal-Website-Logo.svg" alt="pixelsdeveloper" width="254" /></a>
+<a href="https://www.pixelsdeveloper.com" target="blank"><img align="center" src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Personal-Website-Logo.svg" alt="pixelsdeveloper" width="254" />https://www.pixelsdeveloper.com</a>
 
