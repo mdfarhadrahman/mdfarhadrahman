@@ -73,7 +73,8 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
 <a href="https://www.linkedin.com/in/pixelsdeveloper/" target="blank"><img align="center" src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/LinkedIn-Icon.svg" alt="https://www.facebook.com/pixelsdeveloper/" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/PixelsDeveloper" target="blank"><img align="center" src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Twitter-Icon.svg" alt="https://www.instagram.com/pixelsdeveloper/" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.behance.net/pixelsdeveloper" target="blank"><img align="center" src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Behance-Icon.svg" alt="pixelsdeveloper" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/PixelsDeveloper/" target="blank"><img align="center" src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Facebook-Icon.svg" alt="6919" height="40" width="40" /></a>
+<a href="https://www.facebook.com/PixelsDeveloper/" target="blank"><img align="center" src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Facebook-Icon.svg" alt="Facebook Logo" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.pixelsdeveloper.com" target="blank"><img align="center" src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Personal-Logo_Icon.svg" alt="Personal Website Icons" height="40" width="40" /></a>
 </p>
 
 <br>
