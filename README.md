@@ -59,7 +59,6 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
 <br>
 
 <p align="left">
-<a href="https://twitter.com/pixelsdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pixelsdeveloper" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pixelsdeveloper&show_icons=true&locale=en" alt="pixelsdeveloper" /></p>
