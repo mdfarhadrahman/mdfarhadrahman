@@ -76,6 +76,6 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
 
 <h2 align="center"> </h2>
 
-<h2 align="center">Thanks for visiting my GitHub profile!<br> <br> <br> <img align="center" src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/code.png" alt="6919" height="40" width="40"/> </h2>
+<h2 align="center">Thanks for visiting my GitHub profile!<br> <br> <img align="center" src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/code.png" alt="6919" height="40" width="40"/> </h2><br> 
 
 <p align="center"> <img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Heart%20animation.gif" width="500" height="500"> </p>
