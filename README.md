@@ -62,7 +62,7 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pixelsdeveloper&show_icons=true&locale=en" alt="pixelsdeveloper" width="410"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pixelsdeveloper&" alt="pixelsdeveloper" width="410" /><br></p>
   
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pixelsdeveloper&show_icons=true&locale=en&layout=compact" alt="pixelsdeveloper" width="410"/></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pixelsdeveloper&show_icons=true&locale=en&layout=compact" alt="pixelsdeveloper" width="410"/></p>
 
 <br>
 
