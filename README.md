@@ -1,6 +1,6 @@
 ![I'm  Software Engineer.](https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Github%20And%20Other%20Banner.png)
 
-# Farhad Ahmed
+# --Farhad Ahmed--
 ## Mission-driven full stack developer with a passion for thoughtful UI design, collaboration, and teaching.
 
 I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like React, Angular and Node.JS, as well as work in software development. I also enjoy learning nwe languages, and developed in general.
