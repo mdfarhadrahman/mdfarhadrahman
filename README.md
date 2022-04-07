@@ -61,7 +61,7 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
 <h2 align="left">GitHub Profile Overview:</h2>
 <div align="display: flex; align-items: center; justify-content: center;">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pixelsdeveloper&show_icons=true&locale=en" alt="pixelsdeveloper" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pixelsdeveloper&" alt="pixelsdeveloper" /></p><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pixelsdeveloper&" alt="pixelsdeveloper" /></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pixelsdeveloper&show_icons=true&locale=en&layout=compact" alt="pixelsdeveloper" /></p>
 </div>
 
