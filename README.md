@@ -58,6 +58,12 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
   
 <br>
 
+<p align="left">
+<a href="https://twitter.com/pixelsdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pixelsdeveloper" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pixelsdeveloper&show_icons=true&locale=en" alt="pixelsdeveloper" /></p>
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://join.skype.com/invite/uk2d7IjI6Rdf" target="blank"><img align="center" src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Skype-Icon.svg" alt="pixelsdeveloper" height="40" width="40" /></a> &nbsp;&nbsp;
