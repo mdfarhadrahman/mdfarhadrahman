@@ -58,7 +58,7 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
   
 <br>
 
-<div align="left">
+<div align="display: block;">
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pixelsdeveloper&show_icons=true&locale=en" alt="pixelsdeveloper" /></p>
