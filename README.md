@@ -62,7 +62,7 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
     justify-content: center;">
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pixelsdeveloper&show_icons=true&locale=en" alt="pixelsdeveloper" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pixelsdeveloper&show_icons=true&locale=en" alt="pixelsdeveloper" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pixelsdeveloper&" alt="pixelsdeveloper" /></p>
 
