@@ -1,4 +1,4 @@
-![I'm  Software Engineer.](https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Github%20And%20Other%20Banner.png)
+![I'm  Software Engineer.](https://github.com/mdfarhadrahman/mdfarhadrahman/blob/main/Github%20And%20Other%20Banner.png)
 
 # --- Farhad Ahmed ---
 ## Mission-driven Software Developer with a passion for thoughtful UI design, collaboration, and teaching.
@@ -83,7 +83,7 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
 
 # Featured Video
 
-<img src="https://github.com/PixelsDeveloper/PixelsDeveloper/blob/main/Work%20Featured%20Image.gif" width="1200">
+<img src="https://github.com/mdfarhadrahman/mdfarhadrahman/blob/main/Work%20Featured%20Image.gif" width="1200">
 
 <h2 align="center"> </h2>
 
