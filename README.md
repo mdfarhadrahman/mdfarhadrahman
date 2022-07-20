@@ -1,4 +1,4 @@
-![I'm  Software Engineer.](https://github.com/mdfarhadrahman/mdfarhadrahman/blob/main/Github%20And%20Other%20Banner.png)
+![I'm  Software Engineer.](https://github.com/farhadalsami/farhadalsami/blob/main/Github%20And%20Other%20Banner.png)
 
 # --- Farhad Ahmed ---
 ## Mission-driven Software Developer with a passion for thoughtful UI design, collaboration, and teaching.
