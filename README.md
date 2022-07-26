@@ -14,10 +14,6 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
 <br>
 
 
-# Featured Video
-
-<img src="https://github.com/farhadalsami/farhadalsami/blob/main/Work%20Featured%20Image.gif" width="1000">
-
 <h2 align="center"> </h2>
 
 <h2 align="center">Thanks for visiting my GitHub profile!<br> <br> <img align="center" src="https://github.com/farhadalsami/farhadalsami/blob/main/code.png" alt="6919" height="40" width="40"/> </h2><br> 
