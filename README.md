@@ -1,13 +1,13 @@
 ![I'm  Software Engineer.](https://github.com/farhadalsami/farhadalsami/blob/main/Github%20And%20Other%20Banner.png)
 
 # --- Farhad Ahmed ---
-## Mission-driven Software Developer with a passion for thoughtful UI design, collaboration, and teaching.
+## Mission-driven Software Engineer with a passion for thoughtful collaboration, and teaching.
 
-I'm Farhad Ahmed from Bangladesh, and I do content on Design and Development. I enjoy learning languages and frameworks like React, Angular, and Node.JS and working in software development. I also enjoy learning new languages and developing in general.
+I am Farhad Ahmed from Bangladesh, and I am starting a new learning journey. So my main goal is comparative programming. I just started my new journey today. I'm very excited to achieve my new goal. May God bless me to achieve my goal. I enjoy learning new languages and developing, in general, my knowledge.
 
-I’ve always sought out opportunities and challenges that are meaningful to me. Although my professional path has taken many twists and turns — from touring and recording artist, to employee of the year at a non-profit, to dean's scholar at UPenn, to small business owner and entrepreneur — I've never stopped engaging my passion to help others and solve problems.
+I’ve always sought out opportunities and challenges that are meaningful to me. Although my professional path has taken many twists and turns — I've never stopped engaging my passion to help others and solve problems.
 
-As a software developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to change the world. That's why I’m excited to make a big impact at a high-growth company.
+I wish one day As a Software Engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to change the world. That's why I’m excited to make a big impact at a high-growth company.
 
 <p align="left">Personal Website: <a href="https://www.farhadalsami.com" target="_blank" > https://www.farhadalsami.com</a></p>
 
